@@ -1,8 +1,8 @@
 version: '1.4.2'
 appVersion: latest
 type: install
-name: RocketChat
-baseUrl: https://raw.githubusercontent.com/jelastic-jps/rocket-chat/master
+name: RocketChatCustom
+baseUrl: https://raw.githubusercontent.com/raviol/rocket-chat/master
 logo: /images/rocket.png
 homepage: https://rocket.chat/
 
